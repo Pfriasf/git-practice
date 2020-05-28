@@ -1,0 +1,3 @@
+Name: Pedro Frias
+Age: 32
+Favorite Color: Green 
